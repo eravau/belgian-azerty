@@ -22,7 +22,7 @@ It will match most of the external Windows keyboards with Belgian azerty layout 
 ![select input source](Mac_keyboard_layouts/screenshot1.png)
 - From now you can switch keyboard to "BEazertyWinKeyboard" from the right top bar.
 ![select keyboard](Mac_keyboard_layouts/screenshot2.png)
-## Made with tool
+## Made with this tool
 The keyboard layout is made with [Ukele](https://software.sil.org/ukelele/)
 ## Inspired by
 https://github.com/roelandmoors/azerty
