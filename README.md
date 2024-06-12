@@ -5,7 +5,7 @@ It will match most of the external Windows keyboards with Belgian azerty layout 
 - Windows key acts as Command Key
 - AltGr key acts as Option key
 ## Screenshot
-![Ukelele screenshot](Mac keyboard layout/ukelele-screenshot.png)
+![Ukelele screenshot](Mac_keyboard_layouts/ukelele-screenshot.png)
 ## How to use
 1. Copy the keyboard layout file
    - copy corsairk70_azertyBE.keylayout file from Mac folder to "/Library/Keyboard Layouts/"
@@ -17,9 +17,9 @@ It will match most of the external Windows keyboards with Belgian azerty layout 
    - click "+"
    - choose "Others" -> "BEazertyWinKeyboard"
    - click "Add"
-![select input source](Mac keyboard layout/screenshot1.png)
+![select input source](Mac_keyboard_layouts/screenshot1.png)
 - From now you can switch keyboard to "BEazertyWinKeyboard" from the right top bar.
-![select keyboard](Mac keyboard layout/screenshot2.png)
+![select keyboard](Mac_keyboard_layouts/screenshot2.png)
 ## Made with tool
 The keyboard layout is made with [Ukele](https://software.sil.org/ukelele/)
 ## Inspired by
