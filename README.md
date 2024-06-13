@@ -9,7 +9,7 @@ It will match most of the external Windows keyboards with Belgian azerty layout 
 ## Screenshot
 ![Ukelele screenshot](Mac_keyboard_layouts/ukelele-screenshot.png)
 ## How to use
-1. Copy the keyboard layout file
+1. Copy the keyboard layout file from github to your Mac
    - copy corsairk70_azertyBE.keylayout file from Mac_keyboard_layouts folder to "/Library/Keyboard Layouts/" on your Mac
    - logout or reboot
    - login again
