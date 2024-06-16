@@ -1,7 +1,7 @@
 # Belgian azerty macbook keyboard layout file for external Windows keyboards
 Mac .keylayout file with Belgian azerty layout.
 
-I created this Mac keyboard layout for my own personal need to match the Belgian azerty labels on an external Windows usb keyboard.
+I created this Mac keyboard layout for my own personal need to match the Belgian azerty labels on an external Windows usb keyboard (Corsair K70).
 It will match most of the external Windows keyboards with Belgian azerty ISO layout though.
 
 - Windows key acts as Command Key
