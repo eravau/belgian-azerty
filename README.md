@@ -5,7 +5,7 @@ I created this Mac keyboard layout for my own personal need to match the Belgian
 It will match most of the external Windows keyboards with Belgian azerty layout though.
 
 - Windows key acts as Command Key
-- AltGr key acts as Option key
+- AltGr and Alt key acts as Option key
 - **¨** and **^** keys are properly working in combination with other characters for instance **ë** and **ê**
 
 ## Example picture of usb-keyboard with BE-azerty layout
