@@ -2,7 +2,7 @@
 Mac .keylayout file with Belgian azerty layout.
 
 I created this Mac keyboard layout for my own personal need to match the Belgian azerty labels on an external Windows usb keyboard.
-It will match most of the external Windows keyboards with Belgian azerty layout though.
+It will match most of the external Windows keyboards with Belgian azerty ISO layout though.
 
 - Windows key acts as Command Key
 - AltGr and Alt key acts as Option key
